@@ -1,0 +1,10 @@
+﻿  homework3_task2.cpp
+C:\Users\USER\Desktop\uni-sofia\СДА\homework3_task2\homework3_task2\homework3_task2.cpp(5,1): warning C4005: '_DEPRECATE_STDEXT_HASH_UPPER_BOUND': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\yvals_core.h(934): message : see previous definition of '_DEPRECATE_STDEXT_HASH_UPPER_BOUND'
+C:\Users\USER\Desktop\uni-sofia\СДА\homework3_task2\homework3_task2\homework3_task2.cpp(27,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework3_task2\homework3_task2\homework3_task2.cpp(27,55): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework3_task2\homework3_task2\homework3_task2.cpp(37,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework3_task2\homework3_task2\homework3_task2.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework3_task2\homework3_task2\homework3_task2.cpp(128,23): error C2039: 'upper_bound': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vector(24): message : see declaration of 'std'
+C:\Users\USER\Desktop\uni-sofia\СДА\homework3_task2\homework3_task2\homework3_task2.cpp(128,34): error C3861: 'upper_bound': identifier not found
