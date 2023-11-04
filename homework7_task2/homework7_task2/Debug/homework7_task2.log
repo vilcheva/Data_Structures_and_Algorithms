@@ -1,0 +1,4 @@
+﻿  homework7_task2.cpp
+C:\Users\USER\Desktop\uni-sofia\СДА\homework7_task2\homework7_task2\homework7_task2.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework7_task2\homework7_task2\homework7_task2.cpp(12,26): warning C4390: ';': empty controlled statement found; is this the intent?
+  homework7_task2.vcxproj -> C:\Users\USER\Desktop\uni-sofia\СДА\homework7_task2\Debug\homework7_task2.exe
