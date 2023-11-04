@@ -40,7 +40,7 @@ Task 1- Path in graph <br/>
 Task 2- New Alphabet
 
 ## Homework 12 //Minimum Spanning Tree
-Task 1- Questions
+Task 2- Questions
 
 ## Homework 13 //Dynamic Programming
 Task 2- Violets
