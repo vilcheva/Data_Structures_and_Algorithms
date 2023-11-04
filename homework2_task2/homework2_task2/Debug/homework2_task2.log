@@ -1,0 +1,7 @@
+﻿  homework2_task2.cpp
+C:\Users\USER\Desktop\uni-sofia\СДА\homework2_task2\homework2_task2\homework2_task2.cpp(53,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework2_task2\homework2_task2\homework2_task2.cpp(53,55): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework2_task2\homework2_task2\homework2_task2.cpp(83,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework2_task2\homework2_task2\homework2_task2.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\USER\Desktop\uni-sofia\СДА\homework2_task2\homework2_task2\homework2_task2.cpp(140,23): warning C4018: '<': signed/unsigned mismatch
+  homework2_task2.vcxproj -> C:\Users\USER\Desktop\uni-sofia\СДА\homework2_task2\Debug\homework2_task2.exe
